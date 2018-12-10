@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  6 20:25:29 2018
 
-@author: DELL
+@author: aligo
 """
 
 import matplotlib.pyplot as plt
